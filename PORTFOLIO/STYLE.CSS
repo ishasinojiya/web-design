@@ -1,0 +1,51 @@
+
+body{
+    scroll-behavior: smooth;
+}
+
+body{
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.back{
+
+    background-image: url(img/bacground-img-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    height: 100vh;
+}
+
+
+#navbar{
+
+    margin-left: 56%;
+}
+
+ #navbar li a:hover{
+
+text-decoration: underline;
+
+}
+
+#about{
+
+    background-color: teal;
+    width: 100% !important;
+    height: 550PX;
+}
+
+.about{
+
+    background-color: teal !important;
+}
+
+#skill img {
+
+    height: 30vh !important;
+    width: 100% !important;
+
+}
